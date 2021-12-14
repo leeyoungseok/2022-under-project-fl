@@ -19,6 +19,19 @@
 # 예상결과
 연합학습기반 자동차 블랙박스 모바일 앱 
 
+# 신청방법 및 선정결과
+1. 아래 신청사유 적어서 'Pull Request'를 요청
+2. 신청한 조가 2개 이상일 경우 평가 후 결과 발표 ('merge')
+
+# 신청사유(자유양식) 
+### 개인정보 언급 금지: 실명, 학번, 전화번호, 이메일주소 등)
+### 우리 조가 꼭 해야하는 이유. 성공할 수 밖에 없는 이유. 잘 할 수 있는 이유 등
+*
+* 
+*
+
+
+
 # 참고문헌
 1. [Google  AI Blog](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 2. [Tensorflow Federated](https://www.tensorflow.org/federated/federated_learning)
