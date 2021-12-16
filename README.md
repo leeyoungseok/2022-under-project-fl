@@ -1,5 +1,6 @@
 # 2022-under-project-fl
-2022년 학부 졸업프로젝트 주제
+2022년 학부 졸업프로젝트 주제1
+# 제목: 연합학습 모바일 앱
 
 # 주제
 연합학습(federated learning)기반 자동차용 Android 또는 iOS 블랙박스 앱 만들기
