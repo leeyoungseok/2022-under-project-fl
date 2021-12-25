@@ -31,6 +31,8 @@
 *
 
 
+[![DNlab Intro](http://img.youtube.com/vi/AAzOsDunifw/0.jpg)](https://youtu.be/AAzOsDunifw)
+
 # 참고문헌
 1. [Google  AI Blog](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 2. [Tensorflow Federated](https://www.tensorflow.org/federated/federated_learning)
