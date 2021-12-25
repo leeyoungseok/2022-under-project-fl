@@ -31,8 +31,7 @@
 * 
 *
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAzOsDunifw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# 참고
 [![DNlab Intro](http://img.youtube.com/vi/AAzOsDunifw/0.jpg)](https://youtu.be/AAzOsDunifw)
 
 # 참고문헌
